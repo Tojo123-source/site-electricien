@@ -60,22 +60,6 @@ const realisations = [
     description: "Remplacement d'un ancien tableau par un nouveau conforme aux normes.",
     location: 'Franconville (95)',
   },
-  {
-    id: 7,
-    title: 'Installation vidéophonie',
-    category: 'domotique',
-    image: 'https://images.unsplash.com/photo-1557324232-b8917d3c3dcb?w=800&q=80',
-    description: "Pose d'un système de vidéophonie connecté avec ouverture à distance.",
-    location: 'Garges-lès-Gonesse (95)',
-  },
-  {
-    id: 8,
-    title: 'Borne entreprise 4 places',
-    category: 'borne-ve',
-    image: 'https://images.unsplash.com/photo-1593941707882-a56bbc8a57a8?w=800&q=80',
-    description: "Installation de 4 bornes de recharge pour parking d'entreprise.",
-    location: 'Roissy-en-France (95)',
-  },
 ];
 
 export function Realisations() {
