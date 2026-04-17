@@ -1,0 +1,35 @@
+node_modules/
+dist/
+build/
+.out/
+.vite/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Locks
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Editors
+.vscode/
+.idea/
+.DS_Store
+
+# Vercel / cache
+.vercel/
+.cache/
+.next/
+.svelte-kit/
+
+# Logs
+logs/
+*.log
+
+# OS
+Thumbs.db
+ehthumbs.db
+node_modules
